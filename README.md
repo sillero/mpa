@@ -1,0 +1,2 @@
+mozilla-persona-announcement
+============================
