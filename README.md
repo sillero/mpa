@@ -22,19 +22,30 @@ Como é integrar o Persona? Veja este vídeo de The Times Crossword:
 
 We haven't just refined Persona, we've also significantly improved it since we first [introduced it][3]. Over the past few months we:
 
-Nós não apenas refinaos o Persona, como também o melhoramos consideravelmente desde a primeira vez que [o introduzimos][3]. Durante os últimos meses nós:
+Nós não apenas refinamos o Persona, como também o melhoramos consideravelmente desde a primeira vez que [o introduzimos][3]. Durante os últimos meses nós:
 
 * [Completely refreshed our brand][4], changing from the "BrowserID" codename to "Persona."
+* [Completamente atualizamos nossa marca][4], mudando de codinome "BrowserID" para "Persona."
 * Developed an [entirely new (and better) API][5].
+* Desenvolvemos um [API inteiramente nova (e melhor)][5].
 * Streamlined the [first-time user experience][6].
+* Agilizamos a [primeira experiência do usuário][6].
 * Added support for [showing your site's name and logo][7] in the login dialog.
+* Adicionaos suporte para [mostrar o nome e logo do seu site][7] durante o dialog de login.
 * Enhanced the login dialog to optionally [include links to your site's terms of service and privacy policy][8].
+* Melhoramos o dialog de login para opcionalmente [incluir links para os termos de serviço e política de privacidade do seu site][8].
 
 These changes have been well received and we're [seeing Persona gain traction][9] outside of Mozilla. If you are a developer, now is the time to try Persona out. Persona is an [open source project][10] and we gladly welcome input and collaboration from the broader community via our [mailing list][11] or our [IRC channel][12] (#identity on irc.mozilla.org).
 
+Essas mudanças foram bem recebidas e estamos [vendo o Persona ganhar tração][9] fora da Mozilla. Se você é um desenvolvedor, agora é a hora de testar o Persona. O Persona é um [projeto open source][10] e recebemos com prazer respostas e colaborações da comunidade em geral através de nossa [lista de e-mail][11] ou de nosso [canal de IRC][12] (#identity em irc.mozilla.org).
+
 This is the first of many beta releases, and we have some fantastic things planned for the future.
 
+Esse é o primeiro de muitos lançamentos beta, e nós temos várias coisas fantásticas planejadas para o futuro.
+
 So, what are you waiting for? Persona coexists well with existing login systems and only takes a single afternoon to integrate. What's more, because Persona logins are based on email addresses, sites still maintain a direct relationship with their users. Check out [the documentation][13] and add Persona to your site today!
+
+Então, o quê você está esperando? O Persona coexiste bem com os sistemas de logins existentes e leva apenas uma tarde para integrar. Além do mais, porque os logins do Persona são baseados em endereços de email, os sites ainda mantém uma relação direta com seus usuários. Veja [a documentação][13] e adicione o Persona ao seu site hoje!
 
 [1]: https://developer.mozilla.org/en-US/docs/persona/Browser_compatibility
 [2]: http://identity.mozilla.com/post/31739234834/committing-to-a-stable-api-for-persona
