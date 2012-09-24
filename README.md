@@ -45,30 +45,19 @@ ORIGINAL
 ---------------------------------------------------------
 
 # Announcing the First Beta Release of Persona
-# Anunciando o Primeiro Lançamento Beta de Persona
 
 For the past year Mozilla has been working on an experimental login system that completely eliminates passwords on websites while being safe, secure, and easy to use. Today we're casting off the "experimental" label and announcing the first "beta" release of Persona.
-
-Pelo último ano, a Mozilla esteve trabalhando em um sistema de login experimental que completamente elimina senhas em websites e ao mesmo tempo permanece protegido, seguro e fácil de usar. Hoje estamos removendo a etiqueta de "experimental" e anunciando o primeiro lançamento "beta" do Persona
 
 [PLACEHOLDER FOR SCREENCAST VIDEO]
 
 Persona is ready to use for authentication: [it works in all major smartphone, tablet, and desktop browsers][1], the user experience has been thoroughly reviewed and polished, [we're committed to the core APIs][2], and its infrastructure is highly available and stable.
 
-O Persona está pronto para ser usado para autenticação: [funciona em todos os principais navegadores de smartphones, tablets e desktops][1], a experiência do usuário foi cuidadosamente revisada e polida, [estamos comprometidos com as APIs centrais][2], e sua infraestrutura é altamente disponível e estável.
-
 What's it like to integrate Persona? Check out this video from The Times Crossword:
-
-Como é integrar o Persona? Veja este vídeo de The Times Crossword:
 
 [PLACEHOLDER FOR TIMES CROSSWORD VIDEO]
 <center><em>"[Persona] was definitely easier than OpenID or OAuth because it can almost all be done on the client side in JavaScript".</em></center>
 
-<center><em>"[Persona] foi definitavamente mais fácil que OpenID ou OAuth porque quase tudo pode ser feito do lado do cliente em Javascript".</em></center>
-
 We haven't just refined Persona, we've also significantly improved it since we first [introduced it][3]. Over the past few months we:
-
-Nós não apenas refinaos o Persona, como também o melhoramos consideravelmente desde a primeira vez que [o introduzimos][3]. Durante os últimos meses nós:
 
 * [Completely refreshed our brand][4], changing from the "BrowserID" codename to "Persona."
 * Developed an [entirely new (and better) API][5].
