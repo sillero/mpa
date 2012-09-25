@@ -17,7 +17,7 @@ Nós não apenas refinamos o Persona, como também o melhoramos consideravelment
 * Desenvolvemos um [API inteiramente nova (e melhor)][5].
 * Agilizamos a [primeira experiência do usuário][6].
 * Colocamos [o nome e o logo do seu site][7] durante o diálogo de login.
-* Melhoramos o dialog de login para opcionalmente [incluir links para os termos de serviço e política de privacidade do seu site][8].
+* Melhoramos o diálogo de login para opcionalmente [incluir links para os termos de serviço e política de privacidade do seu site][8].
 
 Essas mudanças foram tão bem recebidas que já e estamos [vendo o Persona ganhar força][9] fora da Mozilla. Se você é um desenvolvedor, agora é a hora de testar o Persona. O Persona é um [projeto open source][10] e recebemos com prazer questionamentos e colaborações da comunidade em geral através de nossa [lista de e-mail][11] ou de nosso [canal de IRC][12] (#identity em irc.mozilla.org).
 
